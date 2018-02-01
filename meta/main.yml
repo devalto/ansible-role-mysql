@@ -1,0 +1,15 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: Yanick Châteauvert
+  description: MySQL server Ubuntu.
+  company: "Technologies DevAlto"
+  license: "license (BSD, MIT)"
+  min_ansible_version: 2.2
+  platforms:
+    - name: Ubuntu
+      versions:
+      - all
+  galaxy_tags:
+    - database
